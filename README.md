@@ -18,4 +18,4 @@ The final network model(Table (a)) that is being submitted for evaluation consis
 The final network model provides an _accuracy of 92%_ consistently with the following hyperparameters - batch size of 64, learning rate of 0.01, momentum of 0.9, log interval of 20 and 100 epochs. The output train and test error graph shows consistent error of 0% for training data and 8.5% for testing data after the first 20,00,000 training examples(Fig. (c)). Similarly, the loss graph shows a consistent loss of 0 for training data after the first 20,00,000 training examples and 0.7 for the testing data after the first 40,00,000 training examples(Fig. (d)).
 
 ## Appendix
-![Appendix](https://imgur.com/zS4v9Hd)
+![Appendix](<blockquote class="imgur-embed-pub" lang="en" data-id="a/K7YOxRe" data-context="false" ><a href="//imgur.com/a/K7YOxRe"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
